@@ -1,0 +1,103 @@
+{
+  "basics": {
+    "name": "Joshua John G. Relova",
+    "label": "iOS Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAlYAAAAJDQ4NDk4MmQ1LTY4ZGItNDM4OS1hOGZmLTFiOTAzYzI1MjBhZQ.jpg",
+    "email": "joshua.relova@flightdigitalmedia.com",
+    "phone": "+639276257009"
+  },
+  "education": [{
+    "institution": "De La Salle University",
+    "course": "Computer Engineering",
+    "studyType": "Bachelor",
+    "startDate": "2008",
+    "endDate": "2013"
+  }],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies":[{
+        "name": "Objective C",
+        "number_of_years": 2
+      }, {
+        "name": "Swift",
+        "number_of_years": 2
+      }, {
+        "name": "C",
+        "number_of_years": 2
+      }]
+    },{
+      "category": "Version Control",
+      "technologies":[{
+        "name": "Perforce",
+        "number_of_years": 2
+      }, {
+        "name": "Git",
+        "number_of_years": 3
+      }]
+    }
+  ],
+  "work": [{
+    "company": "Flight Digital Media",
+    "position": "iOS Developer",
+    "startDate": "July 2016",
+    "endDate": "Present",
+    "summary": "Development of mobile applications that provide unique user experiences and leverage the unique features of each platform whether it is for iOS, Android or Web. Worked with established corporations as well as start ups who wish to establish and expand development teams. ",
+    "highlights": [],
+    "projects":[
+      {
+        "name":"Coca-Cola HappyShopmate",
+        "description":"An iOS application that rewards Coca-Cola's loyal customers with different prizes and discounts just by completing missions and/or earn methods (selfies, social media sharing etc.)",
+        "role":"iOS Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Objective C"
+      },{
+        "name":"Haikuism",
+        "description":"An iOS application which allows its users to compose and share their Haikus in-app or in social media. Users can also exchange Haikus with one another and draw inspiration from their friends by using their haikus in creating a collection  ",
+        "role":"iOS Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Swift, Firebase"
+      },{
+        "name":"Zukii",
+        "description":"An iOS application which aims to help small-medium entrepreneurs  in starting their businesses as well as giving rewards to loyal customers who purchase and endorse existing shops and/or products through social networking sites. Moreover it is an e-commerce application that provides ensured delivery that puts the customer's concerns as top priority ",
+        "role":"iOS Developer",
+        "startDate":"2016",
+        "endDate":"Present",
+        "technologies":"Swift"
+      }
+    ]
+  },{
+    "company": "Samsung Electronics Philippines",
+    "position": "Sub-Lead Engineer SP-Systems/iOS Developer",
+    "startDate": "May 2013",
+    "endDate": "Jun 2016",
+    "summary": "Modem/Cellular Processor Development and Support for Samsung Flagship models namely: Samsung J-Series, S6, S4, A-Series. I also became a part of the iOS team which developed applications for Samsung's printer solutions.  ",
+    "highlights": [],
+    "projects":[{
+      "name":"Samsung Cloud Print",
+      "description":"An iOS Application that allows its users to print images and documents on the go while retaining the features of Mobile Print solution. SCP allows its user to print anywhere in the world by the use of Cloud technology, just select a registered or shared printer on your device list and send the document you want to print",
+      "role":"iOS Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Swift"
+    },{
+      "name":"Samsung Printer Diagnostic System",
+      "description":"SPDS is a diagnostic application for Samsung printers. It can also be used to control the printer remotely and test the hardware and its functionalities. Lastly, it can be used to generate a full report of the current state of the printer being tested.",
+      "role":"iOS Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Swift"
+    },{
+      "name":"Mobile Print",
+      "description":"An iOS application that allows users to print and scan images, PDF and documents from their phones to their Samsung printers and vice-versa.",
+      "role":"Lead Developer",
+      "startDate":"",
+      "endDate":"",
+      "technologies":"Objective C"
+    }]
+  }
+  ],
+  "certification": []
+}
