@@ -38,12 +38,6 @@
     }
   ],
   "work": [{
-    "company": "Flight Digital Media",
-    "position": "iOS Developer",
-    "startDate": "July 2016",
-    "endDate": "Present",
-    "summary": "Development of mobile applications that provide unique user experiences and leverage the unique features of each platform whether it is for iOS, Android or Web. Worked with established corporations as well as start ups who wish to establish and expand development teams. ",
-    "highlights": [],
     "projects":[
       {
         "name":"Coca-Cola HappyShopmate",
@@ -66,16 +60,7 @@
         "startDate":"2016",
         "endDate":"Present",
         "technologies":"Swift"
-      }
-    ]
-  },{
-    "company": "Samsung Electronics Philippines",
-    "position": "Sub-Lead Engineer SP-Systems/iOS Developer",
-    "startDate": "May 2013",
-    "endDate": "Jun 2016",
-    "summary": "Modem/Cellular Processor Development and Support for Samsung Flagship models namely: Samsung J-Series, S6, S4, A-Series. I also became a part of the iOS team which developed applications for Samsung's printer solutions.  ",
-    "highlights": [],
-    "projects":[{
+      },{
       "name":"Samsung Cloud Print",
       "description":"An iOS Application that allows its users to print images and documents on the go while retaining the features of Mobile Print solution. SCP allows its user to print anywhere in the world by the use of Cloud technology, just select a registered or shared printer on your device list and send the document you want to print",
       "role":"iOS Developer",
@@ -96,8 +81,8 @@
       "startDate":"",
       "endDate":"",
       "technologies":"Objective C"
-    }]
-  }
-  ],
+    }
+    ]
+  }],
   "certification": []
 }
