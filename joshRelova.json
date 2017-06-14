@@ -26,15 +26,6 @@
         "name": "C",
         "number_of_years": 2
       }]
-    },{
-      "category": "Version Control",
-      "technologies":[{
-        "name": "Perforce",
-        "number_of_years": 2
-      }, {
-        "name": "Git",
-        "number_of_years": 3
-      }]
     }
   ],
   "work": [{
@@ -45,6 +36,7 @@
         "role":"iOS Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(4 months)",
         "technologies":"Objective C"
       },{
         "name":"Haikuism",
@@ -52,6 +44,7 @@
         "role":"iOS Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(3 months)",
         "technologies":"Swift, Firebase"
       },{
         "name":"Zukii",
@@ -59,27 +52,31 @@
         "role":"iOS Developer",
         "startDate":"2016",
         "endDate":"Present",
+        "months":"(6 months)",
         "technologies":"Swift"
       },{
       "name":"Samsung Cloud Print",
       "description":"An iOS Application that allows its users to print images and documents on the go while retaining the features of Mobile Print solution. SCP allows its user to print anywhere in the world by the use of Cloud technology, just select a registered or shared printer on your device list and send the document you want to print",
       "role":"iOS Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2016",
+      "months":"(12 months)",
       "technologies":"Swift"
     },{
       "name":"Samsung Printer Diagnostic System",
       "description":"SPDS is a diagnostic application for Samsung printers. It can also be used to control the printer remotely and test the hardware and its functionalities. Lastly, it can be used to generate a full report of the current state of the printer being tested.",
       "role":"iOS Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2016",
+      "months":"(12 months)",
       "technologies":"Swift"
     },{
       "name":"Mobile Print",
       "description":"An iOS application that allows users to print and scan images, PDF and documents from their phones to their Samsung printers and vice-versa.",
       "role":"Lead Developer",
-      "startDate":"",
-      "endDate":"",
+      "startDate":"2015",
+      "endDate":"2016",
+      "months":"(12 months)",
       "technologies":"Objective C"
     }
     ]
